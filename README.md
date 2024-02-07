@@ -1,4 +1,4 @@
-# e-Electronics Sales Trends Analysis
+# e-Electronics Sales Analysis
 
 Project summary.
 
