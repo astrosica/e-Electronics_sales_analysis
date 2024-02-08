@@ -1,6 +1,6 @@
 # e-Electronics Sales Analysis
 
-e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data to investigate yearly trends, product performance, marketing channel performance, and refund rates. I also evaluated the efficacy of their loyalty program and recommended whether they should continue with the program.
+e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations.
 
 ## Summary of Insights
 
@@ -10,9 +10,7 @@ Seasonality: November and December tend to see the highest growth in orders and 
 
 Product performance: The Apple AirPods Headphones were consistently the most popular product, with 48K sales for a total revenue of $7.7 million. The 27in 4K Gaming Monitor consistently brought in the most revenue for a total of $9.9 million over 23K sales. In contrast, the Bose Soundsport Headphones was consistently the least popular product, bringing in 27 sales for a total revenue of $3.3K.
 
-Marketing channel performance: 
-
-Refund rates: 
+Marketing channel performance: The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
 
 Loyalty program efficacy: The loyalty program is increasing in popularity, accounting for 12% of customers in 2019 to 52% in 2022. 
 
