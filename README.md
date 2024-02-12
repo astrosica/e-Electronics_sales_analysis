@@ -6,7 +6,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 **Yearly trends:** Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
 
-![yearly_trends](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/b97cf3d5-2848-46fb-b3fd-c97ad08d3f28)
+![yearly_trends](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/c4c97fbc-74e4-479e-8d76-8f2bfafbf2a5)
 
 **Seasonality:** November and December tend to see the highest growth in orders and revenue while January and February see the lowest growth, possibly related to trends in holiday spending. March 2020 saw the highest growth in the number of orders and total revenue, possibly due to pandemic purchases.
 
