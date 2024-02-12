@@ -18,6 +18,8 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 **Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
 
+![marketing_channels](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/186b554c-4539-495c-b829-925dc4886859)
+
 **Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue. 
 
 ## Recommendations
