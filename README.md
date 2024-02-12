@@ -10,6 +10,8 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 **Seasonality:** November and December tend to see the highest growth in orders and revenue while January and February see the lowest growth, possibly related to trends in holiday spending. March 2020 saw the highest growth in the number of orders and total revenue, possibly due to pandemic purchases.
 
+![seasonality](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/debe1982-ac2c-40b0-a3d2-fe81bf1f273a)
+
 **Product performance:** The Apple AirPods Headphones were consistently the most popular product, with 48K sales for a total revenue of $7.7 million. The 27in 4K Gaming Monitor consistently brought in the most revenue for a total of $9.9 million over 23K sales. In contrast, the Bose Soundsport Headphones were consistently the least popular product, bringing a total revenue of $3.3K over 27 sales.
 
 **Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
