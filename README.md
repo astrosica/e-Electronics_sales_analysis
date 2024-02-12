@@ -14,6 +14,8 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 **Product performance:** The Apple AirPods Headphones were consistently the most popular product, with 48K sales for a total revenue of $7.7 million. The 27in 4K Gaming Monitor consistently brought in the most revenue for a total of $9.9 million over 23K sales. In contrast, the Bose Soundsport Headphones were consistently the least popular product, bringing a total revenue of $3.3K over 27 sales.
 
+![product_performance](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/77ccc229-490d-4a53-af9d-b2b3ee5daca4)
+
 **Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
 
 **Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue. 
