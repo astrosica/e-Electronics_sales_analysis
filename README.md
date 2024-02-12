@@ -22,6 +22,8 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 **Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue. 
 
+![loyalty_program](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/e1f3f309-cb34-4d72-be30-39b1ec983f1d)
+
 ## Recommendations
 
 The team provides the following recommendations: 
