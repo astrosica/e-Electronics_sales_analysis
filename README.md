@@ -1,6 +1,6 @@
 # e-Electronics Sales Analysis
 
-e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data using SQL to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations. See the entity relationship diagram (ERD) for their data [here](ERD.md).
+e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data using SQL to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations. See the entity relationship diagram (ERD) for their data [here](data/ERD.md).
 
 ## Summary of Insights
 
@@ -24,7 +24,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 ![marketing_channels](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/186b554c-4539-495c-b829-925dc4886859)
 
-**Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue. 
+**Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue.
 
 ![loyalty_program](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/e1f3f309-cb34-4d72-be30-39b1ec983f1d)
 
@@ -34,13 +34,13 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 ## Recommendations
 
-The team provides the following recommendations: 
+The team provides the following recommendations:
 
 - Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
 - Investigate the poor product performance of the Bose Soundsport Headphones and work with the products team to suggest a replacement.
 - Continue the loyalty program while working with analyst teams to monitor yearly growth and revenue to ensure continued growth.
 - Investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop, and work with the products team to improve product descriptions and photos.
-  
+
 ## Contact
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jessicacampbell-astro/)!
