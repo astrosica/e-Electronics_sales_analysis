@@ -24,7 +24,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 ![loyalty_program](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/e1f3f309-cb34-4d72-be30-39b1ec983f1d)
 
-** Refund rates:** The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
+**Refund rates:** The ThinkPad Laptop (12%) and Macbook Air Laptop (11%) have the highest refund rates, while the Apple Airpods Headphones (2,636) and 27in 4K Gaming Monitor (1,444) have the highest number of refunds.
 
 ![refunds](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/76f09cda-05c0-417f-9283-6f47d5049a79)
 
