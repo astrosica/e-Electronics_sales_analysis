@@ -16,7 +16,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 ![product_performance](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/77ccc229-490d-4a53-af9d-b2b3ee5daca4)
 
-**Product performance by region:** The Apple AirPods Headphones are the most popular product across all regions, having sold 18,574 items in NA, 11,227 items in EMEA, 4,226 in APAC, and 1,911 in LATAM.
+**Product performance by region:** The Apple AirPods Headphones are the most popular product across all regions, having sold 18,574 items ($3.1 million) in NA, 11,227 items ($1.7 million) in EMEA, 4,226 items ($0.6 million) in APAC, and 1,911 items ($0.3 million) in LATAM.
 
 ![products_by_region](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/3b72b0dd-85bf-48e0-b79a-8ca35b48cbe0)
 
