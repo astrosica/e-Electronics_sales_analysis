@@ -36,3 +36,7 @@ The team provides the following recommendations:
 - Investigate the poor product performance of the Bose Soundsport Headphones and work with the products team to suggest a replacement.
 - Continue the loyalty program while working with analyst teams to monitor yearly growth and revenue to ensure continued growth.
 - Investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop, and work with the products team to improve product descriptions and photos.
+  
+## Contact
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jessicacampbell-astro/)!
