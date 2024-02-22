@@ -16,6 +16,10 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 ![product_performance](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/77ccc229-490d-4a53-af9d-b2b3ee5daca4)
 
+**Products by region:** The Apple AirPods Headphones are not only the most popular product globally but also for every single region, having sold 18,574 items in North America, 11,227 items in EMEA, 4,226 in APAC, 
+
+![products_by_region](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/3b72b0dd-85bf-48e0-b79a-8ca35b48cbe0)
+
 **Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
 
 ![marketing_channels](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/186b554c-4539-495c-b829-925dc4886859)
