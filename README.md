@@ -32,6 +32,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 The team provides the following recommendations: 
 
-- Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor
-- Investigate the poor product performance of the Bose Soundsport Headphones and consider removing or replacing this product.
-- Continue the loyalty program while monitoring yearly growth and revenue.
+- Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
+- Investigate the poor product performance of the Bose Soundsport Headphones and work with the products team to suggest a replacement.
+- Continue the loyalty program while working with analyst teams to monitor yearly growth and revenue to ensure continued growth.
+- Investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop, and work with the products team to improve product descriptions and photos.
