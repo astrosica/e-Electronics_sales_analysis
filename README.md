@@ -1,6 +1,6 @@
 # e-Electronics Sales Analysis
 
-e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data using SQL to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations. See the entity relationship diagram (ERD) for their data [here](data/ERD.md).
+e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data using SQL to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations.
 
 ## Summary of Insights
 
@@ -15,10 +15,6 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 **Product performance:** The Apple AirPods Headphones were consistently the most popular product, with 48K sales for a total revenue of $7.7 million. The 27in 4K Gaming Monitor consistently brought in the most revenue for a total of $9.9 million over 23K sales. In contrast, the Bose Soundsport Headphones were consistently the least popular product, bringing a total revenue of $3.3K over 27 sales.
 
 ![product_performance](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/77ccc229-490d-4a53-af9d-b2b3ee5daca4)
-
-**Product performance by region:** The Apple AirPods Headphones are the most popular product across all regions, having sold 18,574 items ($3.1 million) in NA, 11,227 items ($1.7 million) in EMEA, 4,226 items ($0.6 million) in APAC, and 1,911 items ($0.3 million) in LATAM.
-
-![products_by_region](https://github.com/jessicacampbell-astro/e-Electronics_analysis/assets/23153120/3b72b0dd-85bf-48e0-b79a-8ca35b48cbe0)
 
 **Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
 
