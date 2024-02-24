@@ -2,7 +2,7 @@
 
 e-Electronics is an e-commerce company that sells popular electronics to customers worldwide. I performed an exploratory analysis of their core marketing data to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and drive company recommendations.
 
-The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_analysis/). The Excel workbook can be found here.
+The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_analysis/). The Excel workbook can be found [here](./excel_workbook/e-Electronics.xlsx).
 
 ## Summary of Insights
 
