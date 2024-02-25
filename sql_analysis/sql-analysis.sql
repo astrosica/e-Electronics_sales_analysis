@@ -112,13 +112,18 @@ LIMIT 1;
 -- Which marketing channel has the highest average signup rate for the loyalty program,
 -- and how does this compare to the channel that has the highest number of loyalty program participants?
 
+-- Use CASE to group unknown and NULL marketing channel records together.
 -- Average the loyalty_program column for the loyalty signup rate per marketing channel, converting to a percentage (x100) and rounding to two decimals.
 -- Count the total number of loyalty participants per marketing channel.
 -- Order the results by descending number of loyalty participants.
 
-SELECT marketing_channel,
+SELECT 
+  CASE
+    WHEN marketing_channel IS NULL THEN 'unknown'
+    ELSE marketing_channel
+  END AS marketing_channel_cleaned,
   ROUND(AVG(loyalty_program)*100,2) AS loyalty_signup_rate,
   SUM(loyalty_program) AS loyalty_participants
 FROM core.customers
-GROUP BY marketing_channel
+GROUP BY marketing_channel_cleaned
 ORDER BY 2 DESC;
