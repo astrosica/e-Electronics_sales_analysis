@@ -16,7 +16,7 @@ The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_anal
 
 **Product performance by region:** The AirPods Headphones are the most popular product across all regions, having sold 18,574 items ($3.1 million) in NA, 11,227 items ($1.7 million) in EMEA, 4,226 items ($0.6 million) in APAC, and 1,911 items ($0.3 million) in LATAM.
 
-**Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K).
+**Marketing channel performance:** The direct marketing channels brought in both the highest number of orders (84K) and total revenue ($23.2 million) while social media brought in both the lowest number of orders (1.3K) and total revenue ($300K). While direct marketing channels brought in the highest number of loyalty members (23K), the unknown marketing channel had the highest loyalty program signup rate (an impressive 78%). 
 
 **Loyalty program efficacy:** The loyalty program is gaining popularity, increasing from 12% of customers in 2019 to 52% in 2022. Last year, loyalty members made 1K more purchases than non-loyalty customers, spending $30 more on average and bringing in $500K more in revenue.
 
@@ -27,9 +27,9 @@ The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_anal
 The team provides the following recommendations:
 
 - Prioritize marketing incentives on high-performing items like the Apple AirPods Headphones and 27in 4K Gaming Monitor.
-- Investigate the poor product performance of the Bose Soundsport Headphones and work with the products team to suggest a replacement.
-- Continue the loyalty program while working with analyst teams to monitor yearly growth and revenue to ensure continued growth.
-- Investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop, and work with the products team to improve product descriptions and photos.
+- Work with the products team to investigate the poor product performance of the Bose Soundsport Headphones and suggest a replacement.
+- Continue the loyalty program and work with data analyst teams to monitor yearly growth and revenue.
+- Work with the products team to investigate the high refund rates of the ThinkPad Laptop and Macbook Air Laptop while improving product descriptions and photos.
 
 ## Contact
 
