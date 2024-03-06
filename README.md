@@ -4,7 +4,7 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_analysis/). The Excel workbook can be found [here](./excel_workbook/).
 
-## Tableau Dashboard
+## Interactive Tableau Dashboard
 
 ![tableau-dashboard](https://github.com/jessicacampbell-astro/e-Electronics_sales_analysis/assets/23153120/63b23668-084d-48a5-8cce-65dc7399f7e2)
 
