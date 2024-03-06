@@ -4,6 +4,10 @@ e-Electronics is an e-commerce company that sells popular electronics to custome
 
 The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_analysis/). The Excel workbook can be found [here](./excel_workbook/).
 
+## Tableau Dashboard
+
+![tableau-dashboard](https://github.com/jessicacampbell-astro/e-Electronics_sales_analysis/assets/23153120/63b23668-084d-48a5-8cce-65dc7399f7e2)
+
 ## Summary of Insights
 
 **Yearly trends:** Between 2019 and 2022, the total revenue exceeded $28 million over 100K orders with an AOV of $260. In particular, 2020 saw the highest growth across the board along with the greatest revenue ($10.2 million) and highest AOV ($300), potentially related to increased pandemic spending. Meanwhile, 2021 saw the highest number of orders (36K).
