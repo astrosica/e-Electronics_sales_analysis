@@ -6,7 +6,7 @@ The SQL scripts and entity relation diagram (ERD) can be found [here](./sql_anal
 
 ## Interactive Tableau Dashboard
 
-![tableau-dashboard](https://github.com/jessicacampbell-astro/e-Electronics_sales_analysis/assets/23153120/63b23668-084d-48a5-8cce-65dc7399f7e2)
+![tableau-dashboard](https://github.com/jessicacampbell-astro/e-Electronics_sales_analysis/assets/23153120/33be2c24-cdeb-4f77-9b89-b8b4a4f59a32)
 
 ## Summary of Insights
 
